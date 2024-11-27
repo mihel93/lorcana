@@ -1,3 +1,3 @@
 layout: page
 title: "EVENTS"
-permalink: /
+permalink: lorcana/
