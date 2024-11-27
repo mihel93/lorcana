@@ -1,3 +1,3 @@
 layout: page
 title: "EVENTS"
-permalink: lorcana/
+permalink:  https://mihel93.github.io/lorcana/
